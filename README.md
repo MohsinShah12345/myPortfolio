@@ -1,6 +1,6 @@
 # My Developer Portfolio
 
-[Demo](https://mohsinali-nine.vercel.app/)
+[Demo](https://mohsinali-dev.vercel.app/)
 
 ![image](./public/demo/demoImg.png)
 
