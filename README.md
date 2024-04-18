@@ -2,7 +2,7 @@
 
 [Demo](https://mohsinali-nine.vercel.app/)
 
-![image](./public/demoImg.png)
+![image](./public/demo/demoImg.png)
 
 Welcome to my personal developer portfolio! This project serves as a showcase for my skills, projects, and experiences.
 
