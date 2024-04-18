@@ -1,9 +1,8 @@
 # My Developer Portfolio
 
-[Demo](https://rtharusha.netlify.app/)
+[Demo](https://mohsinali-nine.vercel.app/)
 
-![image](https://github.com/randilt/react-dev-portfolio/assets/51049280/ac9d1108-266a-4cfe-98ef-36081db11770)
-
+![image](./public/demoImg.png)
 
 Welcome to my personal developer portfolio! This project serves as a showcase for my skills, projects, and experiences.
 
@@ -20,13 +19,15 @@ Welcome to my personal developer portfolio! This project serves as a showcase fo
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/randilt/react-dev-portfolio.git
+git clone https://github.com/MohsinShah12345/myPortfolio.git
 ```
 
 ## 2. Navigate to the Project
+
 ```bash
-cd react-dev-portfolio
+cd myPortfolio
 ```
+
 ## 3. Install Dependencies
 
 ```bash
@@ -38,6 +39,7 @@ npm install
 ```bash
 npm run dev
 ```
+
 The portfolio will be available at http://localhost:5173/ by default.
 
 ## 5. Customize

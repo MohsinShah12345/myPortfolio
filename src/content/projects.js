@@ -47,7 +47,7 @@ const projects = [
   },
   {
     name: "Realestate",
-    description: "Discover the power of real estate events with this free documentation.Dive into an event vocabulary designed to automate processes in residential real estate, supported by open- source software and a dedicated developer community.Explore the project's data model, technology background, and API reference to customize your app effortlessly. Join us in embracing open standards for seamless data integration and innovation, with acknowledgments to industry pioneers like Tim Berners-Lee.",
+    description: "Explore the potential of real estate events with this free documentation. Delve into an event vocabulary crafted to automate processes in residential real estate, backed by open-source software and a dedicated developer community. Investigate the project's data model, technology background, and API reference for effortless app customization. Join us in embracing open standards for seamless data integration and innovation, acknowledging industry pioneers like Tim Berners-Lee.",
     satck: ["React"],
     sourceCode: "https://github.com/Yodata/real-estate",
     img: "/projects/realestate.png",
